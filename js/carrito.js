@@ -146,5 +146,5 @@ function eliminar(){
 function reinicio(){
     alert("Gracias por preferirnos");
     sessionStorage.clear();
-    window.location.href = "Productos.html";
+    window.location.href = "productos.html";
 }
